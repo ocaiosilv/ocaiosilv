@@ -1,16 +1,33 @@
-## Hi there 👋
+Hey, I'm Caio 👨‍💻
 
-<!--
-**ocaiosilv/ocaiosilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems student| Network and Security enthusiast | SIEM's Explorer
 
-Here are some ideas to get you started:
+🔥 Current Missions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🎓 College Stuff: Information Systems Major @ UFS - Brazil
+
+    📡 Cisco courses: CCNA1(introdution to network) + Network Security.
+
+    🔐 Wazuh/SIEMs – Ingesting logs, writing detection rules.
+
+    🐍 Python & JS – Using it for class projects and small automation scripts
+
+🌱 Growing In
+
+    SIEM Stack: Wazuh, Splunk, ELK.
+
+    SQL: Querying logs, threat-hunting datasets.
+
+    Web Pentesting: JS + Burp Suite fiddling.
+
+🤝 Collab or Chat?
+
+I'm happy to chat about:
+
+    CCNA study struggles.
+
+    Wazuh rules that finally worked after 10 tries.
+
+    Cybersec begginer stuff.
+
+(Repos split between code and security – work in progress!)
