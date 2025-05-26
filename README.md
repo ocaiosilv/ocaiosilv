@@ -4,30 +4,30 @@ Information Systems student| Network and Security enthusiast | SIEM's Explorer
 
 🔥 Current Missions
 
-  🎓 College Stuff: Information Systems Major @ UFS - Brazil
+- 🎓 College Stuff: Information Systems Major @ UFS - Brazil
 
-  📡 Cisco courses: CCNA1(introdution to network) + Network Security.
+- 📡 Cisco courses: CCNA1(introdution to network) + Network Security.
   
-  🔐 Wazuh/SIEMs – Ingesting logs, writing detection rules.
+- 🔐 Wazuh/SIEMs – Ingesting logs, writing detection rules.
 
-  🐍 Python & JS – Using it for class projects and small automation scripts
+- 🐍 Python & JS – Using it for class projects and small automation scripts
 
 🌱 Growing In
 
-  SIEM Stack: Wazuh, Splunk, ELK.
+- SIEM Stack: Wazuh, Splunk, ELK.
 
-  SQL: Querying logs, threat-hunting datasets.
+- SQL: Querying logs, threat-hunting datasets.
 
-  Web Pentesting: JS + Burp Suite fiddling.
+- Web Pentesting: JS + Burp Suite fiddling.
 
 🤝 Collab or Chat?
 
 I'm happy to chat about:
 
-  CCNA study struggles.
+- CCNA study struggles.
 
-  Wazuh rules that finally worked after 10 tries.
+- Wazuh rules that finally worked after 10 tries.
 
-  Cybersec begginer stuff.
+- Cybersec begginer stuff.
 
 (Repos split between code and security – work in progress!)
