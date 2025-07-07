@@ -1,6 +1,6 @@
 Hey, I'm Caio 👨‍💻
 
-Information Systems student|
+|Information Systems student|
 
 🔥 Current Missions
 
