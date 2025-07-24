@@ -6,18 +6,14 @@ Hey, I'm Caio 👨‍💻
 
 - 🎓 College Stuff: Information Systems Major @ UFS - Brazil
 
-- 📡 Cisco courses: CCNA1(introdution to network) + Network Security.
-
 - 🐍 Python & JS – Using it for class projects and small automation scripts
 
 🌱 Growing In
 
 - SQL: Extracting insights from structured data.
 
+- Pandas & Numpy
+
 🤝 Collab or Chat?
 
-I'm happy to chat about:
-
-- CCNA study struggles.
-
-- Data stuff.
+I'm happy to chat about anything from development to gaming.
