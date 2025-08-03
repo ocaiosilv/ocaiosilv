@@ -10,9 +10,11 @@ Hey, I'm Caio 👨‍💻
 
 🌱 Growing In
 
-- SQL: Extracting insights from structured data.
+- SQL
 
 - Pandas & Numpy
+
+- Web scrapping
 
 🤝 Collab or Chat?
 
