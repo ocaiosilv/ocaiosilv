@@ -6,4 +6,10 @@ Current
 
 - College: Information Systems Major @ UFS - Brazil
 
+Interests
+
+- Data
+- Ai
+- Automation
+
 
