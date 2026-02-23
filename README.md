@@ -6,6 +6,11 @@ Current
 
 - College: Information Systems Major @ UFS - Brazil
 
+
+WIP
+
+- Azure DP900
+
 Interests
 
 - Data
