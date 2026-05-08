@@ -1,15 +1,10 @@
 Hey, I'm Caio 👨‍💻
 
-|Information Systems student|
+Information Systems student | Azure DP900 |
 
 Current
 
 - College: Information Systems Major @ UFS - Brazil
-
-
-WIP
-
-- Azure DP900
 
 Interests
 
