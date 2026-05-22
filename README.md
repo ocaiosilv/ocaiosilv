@@ -1,6 +1,6 @@
 Hey, I'm Caio 👨‍💻
 
-Information Systems student | Azure DP900 |
+Information Systems student | Azure DP900 | Python & SQL 
 
 Current
 
